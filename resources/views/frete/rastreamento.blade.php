@@ -14,6 +14,9 @@
             </span>
         </p>
         <p class="mt-2">
+            Origem: <span class="font-semibold">{{$frete->origemn}}</span>
+        </p>
+        <p class="mt-2">
             Destino: <span class="font-semibold">{{$frete->destino}}</span>
         </p>
     </div>
